@@ -1,0 +1,5 @@
+api_key='XXXXXXX'
+api_secret='XXXXXX'
+AWS_ACCESS_KEY_ID='XXXXXX'
+AWS_ACCESS_KEY_SECRET='XXXXXX'
+URL = 'https://testnet.binance.vision/api'
