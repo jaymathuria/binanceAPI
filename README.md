@@ -7,4 +7,4 @@ binance_conn is for making connection and API_call is used for calling APIs from
 Currently, as part of this assignent API call is hardocded for symbol BTCUSDT which can be parameterized for future enhancements.
 Retry logic can also be implemented as par tof future release.
 
-Current data is written in AWS S3 usign boto3 module.
+Current data is uploaded to AWS S3 using boto3 module.
